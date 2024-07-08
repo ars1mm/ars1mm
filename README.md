@@ -12,7 +12,7 @@ Face Detection on Security Cameras ![Python](https://img.shields.io/badge/python
 Netflix Clone App ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 
 **Programming Languages**
 
