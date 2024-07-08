@@ -1,7 +1,7 @@
 # Hello there, I'm Arsim Ajvazi.
 
-## I'm a student in Computer Science and Engineering. My goals are to enhance my skills in Fullstack Web Development,Software Development, Data Science and Algorithms, Machine Learning and AI.
-## Feel free to email me 😄 arsimajvazi420@gmail.com
+ I'm a student in Computer Science and Engineering. My goals are to enhance my skills in Fullstack Web Development,Software Development, Data Science and Algorithms, Machine Learning and AI.
+### Email me: arsimajvazi420@gmail.com
 
 Currently Working on:
 
@@ -12,7 +12,7 @@ Face Detection on Security Cameras ![Python](https://img.shields.io/badge/python
 Netflix Clone App ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 
 **Programming Languages**
 
