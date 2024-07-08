@@ -9,7 +9,7 @@ Currently Working on:
 Face Detection on Cameras (Using:**Python OpenCV**)
 
 
-Netflix Clone App (Using:**React and FireBase**)
+Netflix Clone App ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 
 # 💻 Tech Stack:
