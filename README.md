@@ -5,7 +5,11 @@ Feel free to email me 😄 arsimajvazi420@gmail.com
 
 Currently Working on:
 Face Detection on Cameras **Python OpenCV**
+
+
 Netflix Clone App **React and FireBase**
+
+
 # 💻 Tech Stack:
 
 **Programming Languages**
