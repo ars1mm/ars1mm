@@ -1,4 +1,6 @@
+<div align="center">
 # Hello there, I'm Arsim Ajvazi.
+</div>
 
  I'm a student in Computer Science and Engineering. My goals are to enhance my skills in Fullstack Web Development,Software Development, Data Science and Algorithms, Machine Learning and AI.
 ### Email me: arsimajvazi420@gmail.com
@@ -43,12 +45,11 @@ Netflix Clone App ![React](https://img.shields.io/badge/react-%2320232a.svg?styl
 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-<div align="center">
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ars1mm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ars1mm&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ars1mm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ars1mm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
