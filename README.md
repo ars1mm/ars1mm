@@ -1,5 +1,7 @@
-Hello there, I'm Arsim Ajvazi
+Hello there, I'm Arsim Ajvazi.
 
+I'm a student in Computer Science and Engineering. My goals are to enhance my skills in Fullstack Web Development,Software Development, Data Science and Algorithms, Machine Learning and AI.
+Feel free to email me 😄 arsimajvazi420@gmail.com
 # 💻 Tech Stack:
 
 **Programming Languages**
