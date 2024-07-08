@@ -6,7 +6,7 @@ Feel free to email me 😄 arsimajvazi420@gmail.com
 Currently Working on:
 
 
-Face Detection on Cameras (Using:**Python OpenCV**)
+Face Detection on Cameras ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 Netflix Clone App ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
