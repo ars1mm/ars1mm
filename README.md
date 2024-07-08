@@ -6,14 +6,10 @@ Feel free to email me 😄 arsimajvazi420@gmail.com
 Currently Working on:
 
 
-Face Detection on Cameras 
-
-Using:**Python OpenCV**
+Face Detection on Cameras (Using:**Python OpenCV**)
 
 
-Netflix Clone App 
-
-Using:**React and FireBase**
+Netflix Clone App (Using:**React and FireBase**)
 
 
 # 💻 Tech Stack:
