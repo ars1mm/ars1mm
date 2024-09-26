@@ -1,13 +1,11 @@
 
-# Hello there, I'm Arsim Ajvazi.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hello+there%2C+I'm+Arsim+Ajvazi)](https://git.io/typing-svg)
 
 ### I'm a student in Computer Science and Engineering. My goals are to enhance my skills in Fullstack Web Development,Software Development, Data Science and Algorithms, Machine Learning and AI.
 ### Email me: arsimajvazi420@gmail.com
 
 ## Currently Working on:
 
-
-### Face Detection on Security Cameras ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 ### Netflix Clone App ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
