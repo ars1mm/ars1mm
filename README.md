@@ -6,7 +6,9 @@ I'm a student in **Computer Science and Engineering**. My goals are to enhance m
 - Software Development
 - Data Science and Algorithms
 - Machine Learning and AI
+'''bash
 ### Email me: arsimajvazi420@gmail.com
+'''
 
 ## Currently Working on:
 
