@@ -9,7 +9,7 @@ I'm a student in **Computer Science and Engineering**. My goals are to enhance m
 - Machine Learning and AI
 ```
 
-### Email me: arsimajvazi420@gmail.com
+### Email me: arsimajvazi9@gmail.com
 
 
 ## Currently Working on:
