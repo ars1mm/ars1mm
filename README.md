@@ -10,6 +10,7 @@ I'm a student in **Computer Science and Engineering**. My goals are to enhance m
 ```
 
 ### Email me: arsimajvazi9@gmail.com
+## If you are a recruiter, please read below.
 - Currently seeking an Internship as a Machine Learning Engineer or a Fullstack Web Developer
 - Must be remote or located in Macedonia (Skopje)
 
