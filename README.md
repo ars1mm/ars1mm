@@ -10,15 +10,15 @@ I'm a student in **Computer Science and Engineering**. My goals are to enhance m
 ```
 
 ### Email me: arsimajvazi9@gmail.com
+- Currently seeking an Internship as a Machine Learning Engineer or a Fullstack Web Developer
+- Must be remote or located in Macedonia (Skopje)
 
 
 ## Currently Working on:
 
 
 
-
-
-### Internet Cafe Booking System ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### Building a tool for developers to get instant context from YouTube videos: "A scalable, production-grade service that processes YouTube programming videos to extract audio, screen content, and visual events, delivering instant, context-rich answers via LLMs for millions of users. It will offer plans and pay-as-you-go"
  
 
 ## 💻 Tech Stack:
