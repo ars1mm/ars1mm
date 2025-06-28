@@ -21,6 +21,8 @@ I'm a student in **Computer Science and Engineering**. My goals are to enhance m
 
 ### Building a developer-focused tool that delivers instant, context-rich insights from YouTube programming videos.
 This scalable, production-ready service extracts audio, screen content, and visual cues from technical videos, transforming them into actionable answers using advanced LLMs. Designed for millions of users, it supports subscription plans and pay-as-you-go access—empowering developers to learn faster, code smarter, and save hours of manual searching.
+### Affiliate Website
+A personal project built to generate revenue by leveraging affiliate marketing.
  
 
 ## 💻 Tech Stack:
