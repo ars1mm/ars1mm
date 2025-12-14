@@ -1,15 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hello+there%2C+I'm+Arsim+Ajvazi)](https://git.io/typing-svg)
 
-I'm a student in **Computer Science and Engineering**. My goals are to enhance my skills in:
-```
-- Fullstack Web Development
-- Software Development
-- Data Science and Algorithms
-- Machine Learning and AI
-```
-
-### Email me: arsimajvazi9@gmail.com
 
 
 ## Currently Working on:
@@ -53,6 +44,9 @@ A personal project built to generate revenue by leveraging affiliate marketing.
 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+### Email me: arsimajvazi9@gmail.com
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ars1mm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
